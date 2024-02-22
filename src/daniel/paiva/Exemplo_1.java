@@ -8,6 +8,7 @@ public class Exemplo_1 {
         Scanner s = new Scanner(System.in);
         System.out.println("digite sua idade:");
         int idade = s .nextInt();
+
         System.out.println("Voce ten  " +idade+ "  anos");
 
 
